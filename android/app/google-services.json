@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405932774897",
+    "project_id": "flash-chat-dc522",
+    "storage_bucket": "flash-chat-dc522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405932774897:android:0ae11e2d0fa10d1dfd6050",
+        "android_client_info": {
+          "package_name": "com.arafathussain.flast_chat_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405932774897-kvu1g7c5ff5gj22n7mmlmmhfkio0b4t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcVSwYjLT9Xm2shpxhVJkzyqEpcfLhFpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405932774897-kvu1g7c5ff5gj22n7mmlmmhfkio0b4t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
